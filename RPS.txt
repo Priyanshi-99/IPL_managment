@@ -1,0 +1,20 @@
+
+********************************************RPS Squad 2018************************************************
+PLAYER'S NAME	
+1.shubham
+2. Steve Smith (captain)
+3. Ajinkya Rahane	
+4. Faf du Plessis
+5. Ashok Dinda	
+6. Adam Zampa
+7. Shardul Thakur	
+8. Lockie Ferguson
+9. Jaskaran Singh	
+10.Usman Khawaja
+11.Baba Aparajith	
+12.Ben Stokes
+13.Ishwar Pandey	
+14.Daniel Christian
+15.Vinay Kumar
+
+
